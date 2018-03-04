@@ -1,4 +1,4 @@
-# streaming-onboarding
+# Streaming Onboarding
 New to streaming and don't know where to start? This is the place for you!
 
 We have collected links to good articles to read if you would like to know more about streaming.
