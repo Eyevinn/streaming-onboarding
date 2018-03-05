@@ -12,6 +12,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Server-less OTT-Only Playout:](https://medium.com/@eyevinntechnology/server-less-ott-only-playout-bc5a7f2e6d04) A fully “server-less” OTT-only TV channel playout
 
 - [Demystifying HTML5 Video Player:](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0) Under the hood of a HTML video player for video streaming
+
+- [Internet Video Streaming — ABR part 1](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about streaming
  
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
