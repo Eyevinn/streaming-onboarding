@@ -19,17 +19,23 @@ We have collected links to good articles to read if you would like to know more 
  
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
+- [Quality of Experience in Streaming:](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111) Quality of Experience (QoE); its definitions and influence factors.
+
 ## Low-latency streaming
  
 - [Achieving low latency video streaming:](https://medium.com/@eyevinntechnology/achieving-low-latency-video-streaming-b0b806dcc282) Overview and example of low-latency streaming
  
 - [Low latency HLS:](https://medium.com/@periscopecode/introducing-lhls-media-streaming-eb6212948bef) How to achieve low-latency HLS streaming
 
+- [Ultra Low Latency Video Streaming: The Current State:](https://www.linkedin.com/pulse/ultra-low-latency-video-streaming-current-state-patrick-debois/) A good summary of the technology around low-latency streaming
+
 ## Ad-insertion
 
 - [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
 
 - [Server-side ad insertion with DRM:](https://medium.com/@eyevinntechnology/server-side-ad-insertion-with-drm-8b41d5f3fc95) Server-side ad insertion (SSAI) in comparison with client-side ad insertion 
+
+- [Understanding Server-Side Dynamic Ad Insertion:](https://medium.com/@eyevinntechnology/understanding-server-side-dynamic-ad-insertion-d7ed90e34aa2) In this post we’re explaining the principles behind Server-Side Dynamic Ad Insertion technology.
 
 ## Codecs
  
