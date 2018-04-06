@@ -13,9 +13,11 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Demystifying HTML5 Video Player:](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0) Under the hood of a HTML video player for video streaming
 
-- [Internet Video Streaming — ABR part 1](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about streaming
+- [Internet Video Streaming — ABR part 1](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about ABR streaming
 
-- [Internet Video Streaming — ABR part 2](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c) Part 2 of a series of educational posts about streaming
+- [Internet Video Streaming — ABR part 2](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c) Part 2 of a series of educational posts about ABR streaming
+
+- [Internet Video Streaming — ABR part 3](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-3-45ff4bb3d436) Part 3 of a series of educational posts about ABR streaming
  
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
