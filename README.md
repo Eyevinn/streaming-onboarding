@@ -57,7 +57,7 @@ We have collected links to good articles to read if you would like to know more 
 
 ## Videos 
 
-- [Videos from Streaming Tech Sweden 2017:](https://www.streamingtech.se/resources/) Videos from Streaming Tech Sweden 2017 (password 178PR)
+- [Videos from Streaming Tech Sweden 2017:](https://www.streamingtech.se/resources.html) Videos from Streaming Tech Sweden 2017 
 
 - [The Broadcast Knowledge](https://thebroadcastknowledge.com) The Broadcast Knowledge links to free educational events, meetings, lectures, webinars and other free resources focused on the Broadcast Industry
 
