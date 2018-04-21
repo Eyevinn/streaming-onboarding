@@ -39,6 +39,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Understanding Server-Side Dynamic Ad Insertion:](https://medium.com/@eyevinntechnology/understanding-server-side-dynamic-ad-insertion-d7ed90e34aa2) In this post we’re explaining the principles behind Server-Side Dynamic Ad Insertion technology.
 
+- [Challenges with Server-Side Ad Insertion:](https://medium.com/@eyevinntechnology/challenges-with-server-side-ad-insertion-85571f24aafb) In this post we’re explaining the challenges that comes with Server-Side Dynamic Ad Insertion.
+
 ## Codecs
  
 - [A hands-on introduction to video technology:](https://github.com/leandromoreira/digital_video_introduction) A gentle introduction to video technology
