@@ -21,7 +21,11 @@ We have collected links to good articles to read if you would like to know more 
  
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
+## Video Quality
+
 - [Quality of Experience in Streaming:](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111) Quality of Experience (QoE); its definitions and influence factors.
+
+- [Video Quality Assessment:](https://medium.com/@eyevinntechnology/video-quality-assessment-34abd35f96c0) Video quality assessment; from both a subjective and objective point of view.
 
 ## Low-latency streaming
  
