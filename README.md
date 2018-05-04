@@ -18,6 +18,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Internet Video Streaming — ABR part 2](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c) Part 2 of a series of educational posts about ABR streaming
 
 - [Internet Video Streaming — ABR part 3](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-3-45ff4bb3d436) Part 3 of a series of educational posts about ABR streaming
+
+- [Video Encoding — Compression and Resolutions](https://medium.com/@eyevinntechnology/chessboard-for-beginners-video-encoding-compression-and-resolutions-bcefe04fa639) This tutorial describes the concepts of encoding techniques used in today’s video streaming
  
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
