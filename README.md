@@ -11,7 +11,11 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Server-less OTT-Only Playout:](https://medium.com/@eyevinntechnology/server-less-ott-only-playout-bc5a7f2e6d04) A fully “server-less” OTT-only TV channel playout
 
+- [Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming:](https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca) A server-less just-in-time packaging origin, using AWS ECS Fargate tasks running Unified Origin as just-in-time packager and with content stored on an AWS S3 bucket
+
 - [Demystifying HTML5 Video Player:](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0) Under the hood of a HTML video player for video streaming
+
+- [How to build your own streaming video HTML player:](https://medium.com/@eyevinntechnology/how-to-build-your-own-streaming-video-html-player-6ee85d4d078a) Under the hood of a HTML video player
 
 - [Internet Video Streaming — ABR part 1](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about ABR streaming
 
