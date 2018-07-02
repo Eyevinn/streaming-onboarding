@@ -61,6 +61,10 @@ We have collected links to good articles to read if you would like to know more 
 
 - [An ffmpeg tutorial:](https://github.com/leandromoreira/ffmpeg-libav-tutorial) A crash course on how to use FFmpeg
 
+## UHD and HDR
+
+-[Inside our UHD workflow](https://medium.com/bbc-design-engineering/inside-our-uhd-workflow-ae144558036e) This post from BBC introduces the key components of a UHD live stream.
+
 ## Videos 
 
 - [Videos from Streaming Tech Sweden 2017:](https://www.streamingtech.se/resources.html) Videos from Streaming Tech Sweden 2017 
