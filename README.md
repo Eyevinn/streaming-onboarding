@@ -63,7 +63,7 @@ We have collected links to good articles to read if you would like to know more 
 
 ## UHD and HDR
 
--[Inside our UHD workflow](https://medium.com/bbc-design-engineering/inside-our-uhd-workflow-ae144558036e) This post from BBC introduces the key components of a UHD live stream.
+- [Inside our UHD workflow:](https://medium.com/bbc-design-engineering/inside-our-uhd-workflow-ae144558036e) This post from BBC introduces the key components of a UHD live stream.
 
 ## Videos 
 
