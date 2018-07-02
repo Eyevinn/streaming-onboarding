@@ -64,6 +64,7 @@ We have collected links to good articles to read if you would like to know more 
 ## UHD and HDR
 
 - [Inside our UHD workflow:](https://medium.com/bbc-design-engineering/inside-our-uhd-workflow-ae144558036e) This post from BBC introduces the key components of a UHD live stream.
+- [World Cup 2018 in UHD HDR on BBC iPlayer](https://www.bbc.co.uk/rd/blog/2018-05-uhd_hdr_world_cup_2018) Experiences from BBC how to develop UHD HDR on BBC iPlayer for World Cup
 
 ## Videos 
 
