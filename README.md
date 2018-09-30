@@ -66,7 +66,7 @@ We have collected links to good articles to read if you would like to know more 
 - [Inside our UHD workflow:](https://medium.com/bbc-design-engineering/inside-our-uhd-workflow-ae144558036e) This post from BBC introduces the key components of a UHD live stream.
 - [World Cup 2018 in UHD HDR on BBC iPlayer](https://www.bbc.co.uk/rd/blog/2018-05-uhd_hdr_world_cup_2018) Experiences from BBC how to develop UHD HDR on BBC iPlayer for World Cup
 
-# Hulu Live OTT Service
+## Hulu Live OTT Service
 
 - [The Anatomy of a Live OTT Service](https://medium.com/hulu-tech-blog/the-anatomy-of-a-live-ott-service-c8f6078b24d3) The “Anatomy Of” series is a collection of visuals that give a behind the scenes look at the systems that power over-the-top television.
 - [The Challenges of Live Linear Video Ingest - Part One](https://medium.com/hulu-tech-blog/the-challenges-of-live-linear-video-ingest-part-one-live-versus-on-demand-system-requirements-89238f3af4f6) Live Versus On-Demand System Requirements
