@@ -3,6 +3,18 @@ New to streaming and don't know where to start? This is the place for you!
 
 We have collected links to good articles to read if you would like to know more about streaming.
 
+## Starting point
+
+- [Internet Video Streaming — ABR part 1](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about ABR streaming
+
+- [Internet Video Streaming — ABR part 2](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c) Part 2 of a series of educational posts about ABR streaming
+
+- [Internet Video Streaming — ABR part 3](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-3-45ff4bb3d436) Part 3 of a series of educational posts about ABR streaming
+
+- [Video Encoding — Compression and Resolutions](https://medium.com/@eyevinntechnology/chessboard-for-beginners-video-encoding-compression-and-resolutions-bcefe04fa639) This tutorial describes the concepts of encoding techniques used in today’s video streaming
+
+- [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
+
 ## General streaming technology
 
 - [Server-less Video Backend:](https://medium.com/@eyevinntechnology/server-less-video-backend-1a142d1d2ba) How a completely server-less video backend on AWS would look like
@@ -16,16 +28,6 @@ We have collected links to good articles to read if you would like to know more 
 - [Demystifying HTML5 Video Player:](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0) Under the hood of a HTML video player for video streaming
 
 - [How to build your own streaming video HTML player:](https://medium.com/@eyevinntechnology/how-to-build-your-own-streaming-video-html-player-6ee85d4d078a) Under the hood of a HTML video player
-
-- [Internet Video Streaming — ABR part 1](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about ABR streaming
-
-- [Internet Video Streaming — ABR part 2](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c) Part 2 of a series of educational posts about ABR streaming
-
-- [Internet Video Streaming — ABR part 3](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-3-45ff4bb3d436) Part 3 of a series of educational posts about ABR streaming
-
-- [Video Encoding — Compression and Resolutions](https://medium.com/@eyevinntechnology/chessboard-for-beginners-video-encoding-compression-and-resolutions-bcefe04fa639) This tutorial describes the concepts of encoding techniques used in today’s video streaming
- 
-- [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
 ## Video Quality
 
