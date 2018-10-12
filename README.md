@@ -41,6 +41,8 @@ We have collected links to good articles to read if you would like to know more 
  
 - [Low latency HLS:](https://medium.com/@periscopecode/introducing-lhls-media-streaming-eb6212948bef) How to achieve low-latency HLS streaming
 
+- [Ultra Low latency CMAF:](https://blogs.akamai.com/2018/10/best-practices-for-ultra-low-latency-streaming-using-chunked-encoded-and-chunk-transferred-cmaf.html) Best Practices for Ultra-Low Latency Streaming Using Chunked-Encoded and Chunk-Transferred CMAF
+
 - [Ultra Low Latency Video Streaming: The Current State:](https://www.linkedin.com/pulse/ultra-low-latency-video-streaming-current-state-patrick-debois/) A good summary of the technology around low-latency streaming
 
 ## Ad-insertion
