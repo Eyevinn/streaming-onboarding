@@ -55,6 +55,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Challenges with Server-Side Ad Insertion:](https://medium.com/@eyevinntechnology/challenges-with-server-side-ad-insertion-85571f24aafb) In this post we’re explaining the challenges that comes with Server-Side Dynamic Ad Insertion.
 
+- [The State of Server-Side Ad Insertion 2018:](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-Server-Side-Ad-Insertion-2018-127971.aspx) For years, SSAI has promised targeted advertising in a seamless stream that defeats the ad blockers. Has the promise finally been realized?
+
 ## Codecs
  
 - [A hands-on introduction to video technology:](https://github.com/leandromoreira/digital_video_introduction) A gentle introduction to video technology
@@ -69,6 +71,10 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Inside our UHD workflow:](https://medium.com/bbc-design-engineering/inside-our-uhd-workflow-ae144558036e) This post from BBC introduces the key components of a UHD live stream.
 - [World Cup 2018 in UHD HDR on BBC iPlayer](https://www.bbc.co.uk/rd/blog/2018-05-uhd_hdr_world_cup_2018) Experiences from BBC how to develop UHD HDR on BBC iPlayer for World Cup
+
+## AI and Machine Learning
+
+- [How to Choose a Video AI Platform and Evaluate its Results:](http://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=128155) Meet the big four players in the video artificial intelligence space, then learn how they can speed up time-consuming tasks like generating metadata or creating transcriptions.
 
 ## Hulu Live OTT Service
 
@@ -85,6 +91,7 @@ We have collected links to good articles to read if you would like to know more 
 
 ## Misc collection of streaming information
 
+- [The Netflix Tech Blog:](https://medium.com/netflix-techblog) Collection of Netflix Tech Blogs
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
  
