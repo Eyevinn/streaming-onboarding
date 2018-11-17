@@ -92,6 +92,7 @@ We have collected links to good articles to read if you would like to know more 
 ## Misc collection of streaming information
 
 - [The Netflix Tech Blog:](https://medium.com/netflix-techblog) Collection of Netflix Tech Blogs
+- [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
  
