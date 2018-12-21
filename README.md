@@ -17,6 +17,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Securing OTT Content - Watermarking:](https://medium.com/@eyevinntechnology/securing-ott-content-watermarking-7d2b494f725f) The technology behind watermarking
 
+- [Securing OTT Content - DRM:](https://medium.com/@eyevinntechnology/securing-ott-content-drm-1af2c08fdd31) The technology behind DRM
+
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
 ## General streaming technology
