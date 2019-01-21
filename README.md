@@ -35,6 +35,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [How to build your own streaming video HTML player:](https://medium.com/@eyevinntechnology/how-to-build-your-own-streaming-video-html-player-6ee85d4d078a) Under the hood of a HTML video player
 
+- [How video streaming works on the web: An introduction:](https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1) An introduction to video streaming in JavaScript
+
 ## Video Quality
 
 - [Quality of Experience in Streaming:](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111) Quality of Experience (QoE); its definitions and influence factors.
