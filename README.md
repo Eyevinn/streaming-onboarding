@@ -19,6 +19,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Securing OTT Content - DRM:](https://medium.com/@eyevinntechnology/securing-ott-content-drm-1af2c08fdd31) The technology behind DRM
 
+- [OTT Content Delivery:](https://medium.com/@eyevinntechnology/ott-content-delivery-b43a35ef24f6) OTT content delivery networks and distribution methods
+
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
 ## General streaming technology
@@ -103,4 +105,5 @@ We have collected links to good articles to read if you would like to know more 
 - [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
+- [List of streams:](https://github.com/bengarney/list-of-streams/blob/master/README.md) Community list of public test streams for HLS and DASH
  
