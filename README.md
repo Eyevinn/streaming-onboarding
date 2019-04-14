@@ -39,6 +39,10 @@ We have collected links to good articles to read if you would like to know more 
 
 - [How video streaming works on the web: An introduction:](https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1) An introduction to video streaming in JavaScript
 
+- [Cloud Gaming:](https://medium.com/@eyevinntechnology/cloud-gaming-1e6de02f478a) Explaining what Cloud Gaming is, what advantages and disadvantages it has compared to normal gaming
+
+- [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
+
 ## Video Quality
 
 - [Quality of Experience in Streaming:](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111) Quality of Experience (QoE); its definitions and influence factors.
