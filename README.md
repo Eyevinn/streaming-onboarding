@@ -35,13 +35,9 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Demystifying HTML5 Video Player:](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0) Under the hood of a HTML video player for video streaming
 
-- [How to build your own streaming video HTML player:](https://medium.com/@eyevinntechnology/how-to-build-your-own-streaming-video-html-player-6ee85d4d078a) Under the hood of a HTML video player
-
 - [How video streaming works on the web: An introduction:](https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1) An introduction to video streaming in JavaScript
 
 - [Cloud Gaming:](https://medium.com/@eyevinntechnology/cloud-gaming-1e6de02f478a) Explaining what Cloud Gaming is, what advantages and disadvantages it has compared to normal gaming
-
-- [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
 
 ## Video Quality
 
@@ -80,6 +76,16 @@ We have collected links to good articles to read if you would like to know more 
 - [Quality based encoding:](https://medium.com/@eyevinntechnology/the-road-to-everywhere-by-improving-existing-transcoding-workflows-ac427af68cbd) Introduction to quality based encoding
 
 - [An ffmpeg tutorial:](https://github.com/leandromoreira/ffmpeg-libav-tutorial) A crash course on how to use FFmpeg
+
+## How To Guides
+
+- [How to build your own streaming video HTML player:](https://medium.com/@eyevinntechnology/how-to-build-your-own-streaming-video-html-player-6ee85d4d078a) Under the hood of a HTML video player
+
+- [Generate MPEG-TS from file with ffmpeg](https://medium.com/@eyevinntechnology/generate-mpeg-ts-from-file-with-ffmpeg-7561181e6369) How an MPEG-TS multicast stream can be generated with ffmpeg by looping an MP4 file
+
+- [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
+
+- [Loop file and generate multiple video bitrates muxed in MPEG-TS with ffmpeg](https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb) How to generate an MPEG-TS containing multiple video streams each of different resolutions and bitrates
 
 ## UHD and HDR
 
