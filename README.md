@@ -113,6 +113,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [The Netflix Tech Blog:](https://medium.com/netflix-techblog) Collection of Netflix Tech Blogs
 - [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
+- [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
 - [List of streams:](https://github.com/bengarney/list-of-streams/blob/master/README.md) Community list of public test streams for HLS and DASH
