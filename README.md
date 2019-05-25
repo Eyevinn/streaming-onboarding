@@ -21,6 +21,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [OTT Content Delivery:](https://medium.com/@eyevinntechnology/ott-content-delivery-b43a35ef24f6) OTT content delivery networks and distribution methods
 
+- [OTT Content Delivery– Multi CDN:](https://medium.com/@eyevinntechnology/ott-content-delivery-multi-cdn-8cd90ad2628a)This is the second CDN article focusing on Multi CDN technologies
+
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
 ## General streaming technology
@@ -44,6 +46,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Quality of Experience in Streaming:](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111) Quality of Experience (QoE); its definitions and influence factors.
 
 - [Video Quality Assessment:](https://medium.com/@eyevinntechnology/video-quality-assessment-34abd35f96c0) Video quality assessment; from both a subjective and objective point of view.
+
+-[The Challenge to Maintain and Translate Creative Visual Ideas to Everyone’s Viewing Devices:](https://medium.com/@eyevinntechnology/the-challenge-to-maintain-and-translate-creative-visual-ideas-to-everyones-viewing-devices-a88e1a841439) The steps in the production and distribution chain where the image quality can be affected
 
 ## Low-latency streaming
  
