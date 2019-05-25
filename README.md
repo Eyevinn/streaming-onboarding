@@ -47,7 +47,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Video Quality Assessment:](https://medium.com/@eyevinntechnology/video-quality-assessment-34abd35f96c0) Video quality assessment; from both a subjective and objective point of view.
 
--[The Challenge to Maintain and Translate Creative Visual Ideas to Everyone’s Viewing Devices:](https://medium.com/@eyevinntechnology/the-challenge-to-maintain-and-translate-creative-visual-ideas-to-everyones-viewing-devices-a88e1a841439) The steps in the production and distribution chain where the image quality can be affected
+- [The Challenge to Maintain and Translate Creative Visual Ideas to Everyone’s Viewing Devices:](https://medium.com/@eyevinntechnology/the-challenge-to-maintain-and-translate-creative-visual-ideas-to-everyones-viewing-devices-a88e1a841439) The steps in the production and distribution chain where the image quality can be affected
 
 ## Low-latency streaming
  
