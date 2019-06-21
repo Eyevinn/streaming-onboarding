@@ -23,6 +23,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [OTT Content Delivery– Multi CDN:](https://medium.com/@eyevinntechnology/ott-content-delivery-multi-cdn-8cd90ad2628a) This is the second CDN article focusing on Multi CDN technologies
 
+- [OTT Content Delivery– CDN Alternatives:](https://medium.com/@eyevinntechnology/ott-content-delivery-cdn-alternatives-cafe75dab71d) In this third and concluding article about OTT content delivery, we explore various types of CDNs, alternatives to CDNs, and aspects when building or buying CDNs
+
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
 ## General streaming technology
