@@ -73,7 +73,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [The State of Server-Side Ad Insertion 2018:](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-Server-Side-Ad-Insertion-2018-127971.aspx) For years, SSAI has promised targeted advertising in a seamless stream that defeats the ad blockers. Has the promise finally been realized?
 
-## Codecs
+## Codecs and containers
  
 - [A hands-on introduction to video technology:](https://github.com/leandromoreira/digital_video_introduction) A gentle introduction to video technology
 
@@ -82,6 +82,10 @@ We have collected links to good articles to read if you would like to know more 
 - [Quality based encoding:](https://medium.com/@eyevinntechnology/the-road-to-everywhere-by-improving-existing-transcoding-workflows-ac427af68cbd) Introduction to quality based encoding
 
 - [An ffmpeg tutorial:](https://github.com/leandromoreira/ffmpeg-libav-tutorial) A crash course on how to use FFmpeg
+
+- [Fun with Container Formats – Part 1:](https://bitmovin.com/fun-with-container-formats-1/) Terminology and the handling of containers in players
+
+- [Fun with Container Formats – Part 2:](https://bitmovin.com/fun-with-container-formats-2/) MP4 and CMAF container formats
 
 ## How To Guides
 
