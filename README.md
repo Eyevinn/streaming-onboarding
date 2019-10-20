@@ -87,6 +87,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Fun with Container Formats – Part 2:](https://bitmovin.com/fun-with-container-formats-2/) MP4 and CMAF container formats
 
+- [HTTP/3 explained:](https://http3-explained.haxx.se/en/) HTTP/3 and its underlying protocol: QUIC. Why, how they work, protocol details, the implementations and more
+
 ## How To Guides
 
 - [How to build your own streaming video HTML player:](https://medium.com/@eyevinntechnology/how-to-build-your-own-streaming-video-html-player-6ee85d4d078a) Under the hood of a HTML video player
