@@ -71,6 +71,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Challenges with Server-Side Ad Insertion:](https://medium.com/@eyevinntechnology/challenges-with-server-side-ad-insertion-85571f24aafb) In this post we’re explaining the challenges that comes with Server-Side Dynamic Ad Insertion.
 
+- [Understanding Real-time Bidding for AVOD Services](https://medium.com/@eyevinntechnology/understanding-real-time-bidding-for-avod-services-861ebfa8bd13) The technology that makes real-time bidding marketplaces (or programmatic buying) possible
+
 - [The State of Server-Side Ad Insertion 2018:](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-Server-Side-Ad-Insertion-2018-127971.aspx) For years, SSAI has promised targeted advertising in a seamless stream that defeats the ad blockers. Has the promise finally been realized?
 
 ## Codecs and containers
