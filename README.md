@@ -79,6 +79,8 @@ We have collected links to good articles to read if you would like to know more 
  
 - [A hands-on introduction to video technology:](https://github.com/leandromoreira/digital_video_introduction) A gentle introduction to video technology
 
+- [H.264 is Magic:](https://sidbala.com/h-264-is-magic/) H.264 and video compression in general
+
 - [How Codecs Work Tutorial:](https://www.youtube.com/watch?v=LIi6A7r1fYs) A Video Codecs Introduction
  
 - [Quality based encoding:](https://medium.com/@eyevinntechnology/the-road-to-everywhere-by-improving-existing-transcoding-workflows-ac427af68cbd) Introduction to quality based encoding
