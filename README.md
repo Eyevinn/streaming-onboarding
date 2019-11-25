@@ -127,6 +127,12 @@ We have collected links to good articles to read if you would like to know more 
 
 - [The Broadcast Knowledge](https://thebroadcastknowledge.com) The Broadcast Knowledge links to free educational events, meetings, lectures, webinars and other free resources focused on the Broadcast Industry
 
+- [AWS Elemental Foundations – Video Compression Basics](https://www.aws.training/learningobject/wbc?id=17775)
+
+- [AWS Elemental Foundations – Video Delivery Basics](https://www.aws.training/learningobject/wbc?id=17887)
+
+- [AWS Elemental Foundations – The Challenges of Streaming Live Video](https://www.aws.training/learningobject/video?id=24750)
+
 ## Misc collection of streaming information
 
 - [The Netflix Tech Blog:](https://medium.com/netflix-techblog) Collection of Netflix Tech Blogs
