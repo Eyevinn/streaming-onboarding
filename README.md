@@ -51,6 +51,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [The Challenge to Maintain and Translate Creative Visual Ideas:](https://medium.com/@eyevinntechnology/the-challenge-to-maintain-and-translate-creative-visual-ideas-to-everyones-viewing-devices-a88e1a841439) The steps in the production and distribution chain where the image quality can be affected
 
+- [Collection of VMAF Resources](https://streaminglearningcenter.com/blogs/collection-of-vmaf-resources.html) A collection of resources covering VMAF
+
 ## Low-latency streaming
  
 - [Achieving low latency video streaming:](https://medium.com/@eyevinntechnology/achieving-low-latency-video-streaming-b0b806dcc282) Overview and example of low-latency streaming
@@ -102,6 +104,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
 
 - [Loop file and generate multiple video bitrates muxed in MPEG-TS with ffmpeg](https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb) How to generate an MPEG-TS containing multiple video streams each of different resolutions and bitrates
+
+- [Streamline, a reference end to end live streaming system](https://github.com/streamlinevideo/streamline) Streamline, a reference system design for a premium quality, white label, end to end live streaming system.
 
 ## UHD and HDR
 
