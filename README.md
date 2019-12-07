@@ -63,6 +63,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Ultra Low Latency Video Streaming: The Current State:](https://www.linkedin.com/pulse/ultra-low-latency-video-streaming-current-state-patrick-debois/) A good summary of the technology around low-latency streaming
 
+[dash.js – Low Latency Streaming with CMAF](https://websites.fraunhofer.de/video-dev/dash-js-low-latency-streaming-with-cmaf/) CMAF, the mechanism it provides to do low latency live streaming, and how this works in combination with dash.js
+
 ## Ad-insertion
 
 - [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
