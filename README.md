@@ -146,4 +146,5 @@ We have collected links to good articles to read if you would like to know more 
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
 - [List of streams:](https://github.com/bengarney/list-of-streams/blob/master/README.md) Community list of public test streams for HLS and DASH
+- [HLS.video](https://hls.video/) Home for all video streaming related resources
  
