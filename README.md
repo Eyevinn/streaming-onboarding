@@ -31,6 +31,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Server-less Video Backend:](https://medium.com/@eyevinntechnology/server-less-video-backend-1a142d1d2ba) How a completely server-less video backend on AWS would look like
 
+- [Building Serverless Media Functions:](https://medium.com/@eyevinntechnology/building-serverless-media-functions-61bfc400af20) How a serverless infrastructure for media functions can be implemented
+
 - [Cloud-based OTT Only Playout:](https://medium.com/@eyevinntechnology/cloud-based-ott-only-playout-54e19b542c43) How could a broadcast solution look like if you designed it for only OTT/Internet distribution?
 
 - [Server-less OTT-Only Playout:](https://medium.com/@eyevinntechnology/server-less-ott-only-playout-bc5a7f2e6d04) A fully “server-less” OTT-only TV channel playout
@@ -117,6 +119,8 @@ We have collected links to good articles to read if you would like to know more 
 ## AI and Machine Learning
 
 - [How to Choose a Video AI Platform and Evaluate its Results:](http://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=128155) Meet the big four players in the video artificial intelligence space, then learn how they can speed up time-consuming tasks like generating metadata or creating transcriptions.
+
+- [Personalize the Experience:](https://medium.com/@eyevinntechnology/personalize-the-experience-37f991db2745) How to build a simple recommendation service.
 
 ## Hulu Live OTT Service
 
