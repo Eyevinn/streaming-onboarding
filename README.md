@@ -31,7 +31,9 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Server-less Video Backend:](https://medium.com/@eyevinntechnology/server-less-video-backend-1a142d1d2ba) How a completely server-less video backend on AWS would look like
 
-- [Building Serverless Media Functions:](https://medium.com/@eyevinntechnology/building-serverless-media-functions-61bfc400af20) How a serverless infrastructure for media functions can be implemented
+- [Building Serverless Media Functions:](https://medium.com/@eyevinntechnology/building-serverless-media-functions-61bfc400af20) How a serverless infrastructure for media functions can be implemented (1/3)
+
+- [Deployment of a Serverless Media Function:](https://medium.com/@eyevinntechnology/deployment-of-a-serverless-media-function-32c3c313e72e) How to deploy serverless infrastructure for media functions with Kubernetes as container orchestrator (2/3)
 
 - [Cloud-based OTT Only Playout:](https://medium.com/@eyevinntechnology/cloud-based-ott-only-playout-54e19b542c43) How could a broadcast solution look like if you designed it for only OTT/Internet distribution?
 
