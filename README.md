@@ -35,6 +35,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Deployment of a Serverless Media Function:](https://medium.com/@eyevinntechnology/deployment-of-a-serverless-media-function-32c3c313e72e) How to deploy serverless infrastructure for media functions with Kubernetes as container orchestrator (2/3)
 
+- [Serverless Media Function on Amazon EKS:](https://medium.com/@eyevinntechnology/serverless-media-function-on-amazon-eks-84d4bfb16db0) How to deploy serverless infrastructure for media functions using Amazon Elastic Kubernetes Service (Amazon EKS) (3/3)
+
 - [Cloud-based OTT Only Playout:](https://medium.com/@eyevinntechnology/cloud-based-ott-only-playout-54e19b542c43) How could a broadcast solution look like if you designed it for only OTT/Internet distribution?
 
 - [Server-less OTT-Only Playout:](https://medium.com/@eyevinntechnology/server-less-ott-only-playout-bc5a7f2e6d04) A fully “server-less” OTT-only TV channel playout
