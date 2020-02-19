@@ -29,6 +29,8 @@ We have collected links to good articles to read if you would like to know more 
 
 ## General streaming technology
 
+- [Example of Microservices for a Streaming Service:](https://medium.com/@eyevinntechnology/example-of-microservices-for-a-streaming-service-e2b2c556442e) This article go through some examples of performant and scalable microservices that you would find or need in a streaming service
+
 - [Server-less Video Backend:](https://medium.com/@eyevinntechnology/server-less-video-backend-1a142d1d2ba) How a completely server-less video backend on AWS would look like
 
 - [Building Serverless Media Functions:](https://medium.com/@eyevinntechnology/building-serverless-media-functions-61bfc400af20) How a serverless infrastructure for media functions can be implemented (1/3)
