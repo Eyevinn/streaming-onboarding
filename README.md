@@ -61,6 +61,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Collection of VMAF Resources](https://streaminglearningcenter.com/blogs/collection-of-vmaf-resources.html) A collection of resources covering VMAF
 
+- [Testing your Video Player with Bad Streams](https://medium.com/@eyevinntechnology/testing-your-video-player-with-bad-streams-c70cac51deab) The stream corruptor service can be used to apply corruptions and faults to MPEG-DASH manifests and segment requests in a controlled manner and on the fly
+
 ## Low-latency streaming
  
 - [Achieving low latency video streaming:](https://medium.com/@eyevinntechnology/achieving-low-latency-video-streaming-b0b806dcc282) Overview and example of low-latency streaming
