@@ -59,6 +59,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [The Challenge to Maintain and Translate Creative Visual Ideas:](https://medium.com/@eyevinntechnology/the-challenge-to-maintain-and-translate-creative-visual-ideas-to-everyones-viewing-devices-a88e1a841439) The steps in the production and distribution chain where the image quality can be affected
 
+- [Keep an Eye on the Video Quality:](https://medium.com/@eyevinntechnology/keep-an-eye-on-the-video-quality-b9bcb58dd5a1) A walk through how to use VMAF for measuring the perceptual visual quality of transcoded video
+
 - [Collection of VMAF Resources](https://streaminglearningcenter.com/blogs/collection-of-vmaf-resources.html) A collection of resources covering VMAF
 
 - [Testing your Video Player with Bad Streams](https://medium.com/@eyevinntechnology/testing-your-video-player-with-bad-streams-c70cac51deab) The stream corruptor service can be used to apply corruptions and faults to MPEG-DASH manifests and segment requests in a controlled manner and on the fly
