@@ -8,5 +8,5 @@ The Stream Corruptor is a proxy that is placed in-between the streaming applicat
 
 We value your feedback and invites you to try this out and to see whether this is something that could be incorporated into your development and deployment environment. By trying it out you make no commercial commitment and we are only interested in your feedback.
 
-If you are interested to participate send us an email at (mailto:sales@eyevinn.se) or use the contact form below.
+If you are interested to participate send us an [email](mailto:sales@eyevinn.se) or use the contact form below.
 
