@@ -119,6 +119,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Loop file and generate multiple video bitrates muxed in MPEG-TS with ffmpeg](https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb) How to generate an MPEG-TS containing multiple video streams each of different resolutions and bitrates
 
+- [Javascript Libraries for HLS Manifest Manipulation:](https://medium.com/@eyevinntechnology/javascript-libraries-for-hls-manifest-manipulation-ffeeb3378f1a) A description of a couple of Javascript (NodeJS) libraries that can be used when doing HLS manifest manipulations
+
 - [Streamline, a reference end to end live streaming system](https://github.com/streamlinevideo/streamline) Streamline, a reference system design for a premium quality, white label, end to end live streaming system.
 
 ## UHD and HDR
