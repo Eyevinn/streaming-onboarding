@@ -75,7 +75,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Ultra Low Latency Video Streaming: The Current State:](https://www.linkedin.com/pulse/ultra-low-latency-video-streaming-current-state-patrick-debois/) A good summary of the technology around low-latency streaming
 
-[dash.js – Low Latency Streaming with CMAF](https://websites.fraunhofer.de/video-dev/dash-js-low-latency-streaming-with-cmaf/) CMAF, the mechanism it provides to do low latency live streaming, and how this works in combination with dash.js
+- [dash.js – Low Latency Streaming with CMAF](https://websites.fraunhofer.de/video-dev/dash-js-low-latency-streaming-with-cmaf/) CMAF, the mechanism it provides to do low latency live streaming, and how this works in combination with dash.js
 
 ## Ad-insertion
 
@@ -116,6 +116,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Generate MPEG-TS from file with ffmpeg](https://medium.com/@eyevinntechnology/generate-mpeg-ts-from-file-with-ffmpeg-7561181e6369) How an MPEG-TS multicast stream can be generated with ffmpeg by looping an MP4 file
 
 - [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
+
+- [SRT to RTMP container to re-stream to Facebook, Twitch, Youtube and more:](https://medium.com/@eyevinntechnology/srt-to-rtmp-container-to-re-stream-to-facebook-twitch-youtube-and-more-625c823151eb) In this blog post we will show how you can use OBS to stream to multiple platforms
 
 - [Loop file and generate multiple video bitrates muxed in MPEG-TS with ffmpeg](https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb) How to generate an MPEG-TS containing multiple video streams each of different resolutions and bitrates
 
