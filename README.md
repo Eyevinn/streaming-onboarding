@@ -93,6 +93,8 @@ We have collected links to good articles to read if you would like to know more 
 
 ## Codecs and containers
  
+- [Making Video Intuitive:](https://blog.cloudflare.com/making-video-intuitive-an-explainer/) Making Video Intuitive: An Explainer
+
 - [A hands-on introduction to video technology:](https://github.com/leandromoreira/digital_video_introduction) A gentle introduction to video technology
 
 - [H.264 is Magic:](https://sidbala.com/h-264-is-magic/) H.264 and video compression in general
@@ -163,6 +165,7 @@ We have collected links to good articles to read if you would like to know more 
 - [Disney Streaming Services Tech Blog:](https://medium.com/disney-streaming) Collection of Disney Tech Blogs
 - [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
+- [Tubi engineering:](https://code.tubitv.com) Engineering blog for Tubi TV
 - [Fraunhofer FOKUS Video Development Blog:](https://websites.fraunhofer.de/video-dev/) Technical Articles from the Fraunhofer FOKUS Business Unit Future Applications and Media (FAME)
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
