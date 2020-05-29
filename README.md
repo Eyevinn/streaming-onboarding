@@ -167,6 +167,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
 - [Tubi engineering:](https://code.tubitv.com) Engineering blog for Tubi TV
 - [Fraunhofer FOKUS Video Development Blog:](https://websites.fraunhofer.de/video-dev/) Technical Articles from the Fraunhofer FOKUS Business Unit Future Applications and Media (FAME)
+- [Zattoo Tech Blog:](https://medium.com/zattoo_tech) Developing, engineering and designing the future of television.
+- [Consuo Dev Blog:](https://dev.to/consuo) Dev blog on how to bring the best out of Consuo to bring your VOD to live!
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
 - [Awesome Video](https://github.com/krzemienski/awesome-video) An awesome list of learning video streaming resources
