@@ -97,6 +97,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [A hands-on introduction to video technology:](https://github.com/leandromoreira/digital_video_introduction) A gentle introduction to video technology
 
+- [Basic GOP explained:](https://aws.amazon.com/blogs/media/part-1-back-to-basics-gops-explained/) The concept of a Group of Pictures (GOP)
+
 - [H.264 is Magic:](https://sidbala.com/h-264-is-magic/) H.264 and video compression in general
 
 - [How Codecs Work Tutorial:](https://www.youtube.com/watch?v=LIi6A7r1fYs) A Video Codecs Introduction
