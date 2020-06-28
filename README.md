@@ -102,6 +102,8 @@ We have collected links to good articles to read if you would like to know more 
 - [H.264 is Magic:](https://sidbala.com/h-264-is-magic/) H.264 and video compression in general
 
 - [How Codecs Work Tutorial:](https://www.youtube.com/watch?v=LIi6A7r1fYs) A Video Codecs Introduction
+
+- [AV1 decoder model:](https://norkin.org/research/av1_decoder_model/index.html) This post can serve as an introduction to the parts of the AV1 specification related to the decoder model and levels
  
 - [Quality based encoding:](https://medium.com/@eyevinntechnology/the-road-to-everywhere-by-improving-existing-transcoding-workflows-ac427af68cbd) Introduction to quality based encoding
 
