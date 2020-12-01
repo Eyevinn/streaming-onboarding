@@ -68,6 +68,8 @@ We have collected links to good articles to read if you would like to know more 
 ## Low-latency streaming
  
 - [Achieving low latency video streaming:](https://medium.com/@eyevinntechnology/achieving-low-latency-video-streaming-b0b806dcc282) Overview and example of low-latency streaming
+
+- [Using LL-HLS with byte-range addressing to achieve interoperability in low latency streaming:](https://blogs.akamai.com/2020/11/using-ll-hls-with-byte-range-addressing-to-achieve-interoperability-in-low-latency-streaming.html) This article investigate the problems solved with range-based addressing, the requirements it brings to operate effectively, and the benefits we can gain by deploying it at scale
  
 - [Low latency HLS:](https://medium.com/@periscopecode/introducing-lhls-media-streaming-eb6212948bef) How to achieve low-latency HLS streaming
 
