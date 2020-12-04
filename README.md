@@ -172,6 +172,7 @@ We have collected links to good articles to read if you would like to know more 
 - [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
 - [Tubi engineering:](https://code.tubitv.com) Engineering blog for Tubi TV
+- [Twitter engineering:](https://blog.twitter.com/engineering/en_us.html) Buildning the new twitter.com
 - [Fraunhofer FOKUS Video Development Blog:](https://websites.fraunhofer.de/video-dev/) Technical Articles from the Fraunhofer FOKUS Business Unit Future Applications and Media (FAME)
 - [Zattoo Tech Blog:](https://medium.com/zattoo_tech) Developing, engineering and designing the future of television.
 - [Joyn Tech Blog:](https://medium.com/joyn-tech-blog) Engineering blog for Joyn
