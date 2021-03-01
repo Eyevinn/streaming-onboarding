@@ -169,6 +169,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [The Netflix Tech Blog:](https://medium.com/netflix-techblog) Collection of Netflix Tech Blogs
 - [Disney Streaming Services Tech Blog:](https://medium.com/disney-streaming) Collection of Disney Tech Blogs
+- [Eyevinn Video Dev-Team Blog:](https://dev.to/video) Video Developer Blog by Eyevinn Video-Dev Team
 - [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
 - [Tubi engineering:](https://code.tubitv.com) Engineering blog for Tubi TV
