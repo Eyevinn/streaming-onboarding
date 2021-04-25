@@ -172,9 +172,11 @@ We have collected links to good articles to read if you would like to know more 
 - [Eyevinn Video Dev-Team Blog:](https://dev.to/video) Video Developer Blog by Eyevinn Video-Dev Team
 - [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
+- [Fox Tech Blog:](https://medium.com/fox-tech)Fox Tech Blog - from the engineers at Fox
 - [Tubi engineering:](https://code.tubitv.com) Engineering blog for Tubi TV
 - [Twitter engineering:](https://blog.twitter.com/engineering/en_us.html) Buildning the new twitter.com
 - [Facebook Video engineering:](https://engineering.fb.com/category/video-engineering/) The Video Engineering team at Facebook is responsible for the end-to-end video experience, including upload, encoding, playback, and distribution across mobile and web
+- [Edgeware Tech Blog:](https://www.edgeware.tv/news-events/category/tech-blog/) Edgeware Tech Blog - from the Edgeware engineering team
 - [Fraunhofer FOKUS Video Development Blog:](https://websites.fraunhofer.de/video-dev/) Technical Articles from the Fraunhofer FOKUS Business Unit Future Applications and Media (FAME)
 - [Zattoo Tech Blog:](https://medium.com/zattoo_tech) Developing, engineering and designing the future of television.
 - [Joyn Tech Blog:](https://medium.com/joyn-tech-blog) Engineering blog for Joyn
