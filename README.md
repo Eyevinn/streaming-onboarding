@@ -178,6 +178,7 @@ We have collected links to good articles to read if you would like to know more 
 - [Facebook Video engineering:](https://engineering.fb.com/category/video-engineering/) The Video Engineering team at Facebook is responsible for the end-to-end video experience, including upload, encoding, playback, and distribution across mobile and web
 - [Edgeware Tech Blog:](https://www.edgeware.tv/news-events/category/tech-blog/) Edgeware Tech Blog - from the Edgeware engineering team
 - [Fraunhofer FOKUS Video Development Blog:](https://websites.fraunhofer.de/video-dev/) Technical Articles from the Fraunhofer FOKUS Business Unit Future Applications and Media (FAME)
+- [SVT Tech Blog:](https://medium.com/the-svt-tech-blog) Tech Blog from SVT, Swedens public service broadcaster
 - [Zattoo Tech Blog:](https://medium.com/zattoo_tech) Developing, engineering and designing the future of television.
 - [Joyn Tech Blog:](https://medium.com/joyn-tech-blog) Engineering blog for Joyn
 - [Crunchyroll Blog:](https://medium.com/crunchyroll) Chrunchyroll blog
