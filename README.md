@@ -182,7 +182,7 @@ We have collected links to good articles to read if you would like to know more 
 - [Zattoo Tech Blog:](https://medium.com/zattoo_tech) Developing, engineering and designing the future of television.
 - [Joyn Tech Blog:](https://medium.com/joyn-tech-blog) Engineering blog for Joyn
 - [Crunchyroll Blog:](https://medium.com/crunchyroll) Chrunchyroll blog
-- [Consuo Dev Blog:](https://dev.to/consuo) Dev blog on how to bring the best out of Consuo to bring your VOD to live!
+- [Caffeine Dev Blog:](https://www.caffeine.tv/blog/engineering) Caffeine Tech Blog
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
 - [Awesome Video](https://github.com/krzemienski/awesome-video) An awesome list of learning video streaming resources
