@@ -131,7 +131,9 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Javascript Libraries for HLS Manifest Manipulation:](https://medium.com/@eyevinntechnology/javascript-libraries-for-hls-manifest-manipulation-ffeeb3378f1a) A description of a couple of Javascript (NodeJS) libraries that can be used when doing HLS manifest manipulations
 
-- [Streamline, a reference end to end live streaming system](https://github.com/streamlinevideo/streamline) Streamline, a reference system design for a premium quality, white label, end to end live streaming system.
+- [Streamline, a reference end to end live streaming system:](https://github.com/streamlinevideo/streamline) Streamline, a reference system design for a premium quality, white label, end to end live streaming system.
+
+- [Video Debug Tools:](https://www.debugvideo.com) A collection of tools, topics, and code snippets that may help video devs debug browser-based video playback.
 
 ## UHD and HDR
 
