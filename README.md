@@ -115,6 +115,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Fun with Container Formats – Part 2:](https://bitmovin.com/fun-with-container-formats-2/) MP4 and CMAF container formats
 
+- [Video Coding Basics:](https://youtu.be/LDeL7-49qm4) Cover the basic building blocks of encoders and decoders which are common to all popular video coding standards like h.264/AVC, h.265/HEVC, VP8, VP9, AV1 or even h.266/VVC
+
 - [HTTP/3 explained:](https://http3-explained.haxx.se/en/) HTTP/3 and its underlying protocol: QUIC. Why, how they work, protocol details, the implementations and more
 
 ## How To Guides
