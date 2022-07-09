@@ -79,6 +79,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [dash.js – Low Latency Streaming with CMAF](https://websites.fraunhofer.de/video-dev/dash-js-low-latency-streaming-with-cmaf/) CMAF, the mechanism it provides to do low latency live streaming, and how this works in combination with dash.js
 
+- [WebRTC for the curious:](https://webrtcforthecurious.com/) WebRTC For The Curious is an Open Source book written for those that are always looking for more
+
 ## Ad-insertion
 
 - [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
