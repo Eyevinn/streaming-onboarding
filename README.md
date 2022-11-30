@@ -196,4 +196,6 @@ We have collected links to good articles to read if you would like to know more 
 - [List of streams:](https://github.com/bengarney/list-of-streams/blob/master/README.md) Community list of public test streams for HLS and DASH
 - [HLS.video](https://hls.video/) Home for all video streaming related resources
 - [OTTBall](https://ottball.com) A platform where content and code related to the OTT industry is created and shared
+- [Video Streaming Cheatsheet](https://video-streaming-cheatsheet.s3.eu-west-2.amazonaws.com/artifacts/video-streaming-cheatsheet.pdf) A Cheatsheet of Terms used within the Video Streaming Industry, taking contributions on [Github](https://github.com/robert-will-brown/video-streaming-cheatsheet).
+ 
  
