@@ -63,6 +63,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Collection of VMAF Resources](https://streaminglearningcenter.com/blogs/collection-of-vmaf-resources.html) A collection of resources covering VMAF
 
+- [AutoVMAF docs](https://autovmaf.docs.eyevinn.technology)Eyevinn AutoVMAF is a toolkit to automatically encode a video file in multiple bitrates and resolutions, and then perform automated VMAF measurements on all of them
+
 - [Testing your Video Player with Bad Streams](https://medium.com/@eyevinntechnology/testing-your-video-player-with-bad-streams-c70cac51deab) The stream corruptor service can be used to apply corruptions and faults to MPEG-DASH manifests and segment requests in a controlled manner and on the fly
 
 ## Low-latency streaming
@@ -80,6 +82,8 @@ We have collected links to good articles to read if you would like to know more 
 - [dash.js – Low Latency Streaming with CMAF](https://websites.fraunhofer.de/video-dev/dash-js-low-latency-streaming-with-cmaf/) CMAF, the mechanism it provides to do low latency live streaming, and how this works in combination with dash.js
 
 - [WebRTC for the curious:](https://webrtcforthecurious.com/) WebRTC For The Curious is an Open Source book written for those that are always looking for more
+
+- [Standardized WebRTC based broadcast streaming](https://medium.com/@eyevinntechnology/standardized-webrtc-based-broadcast-streaming-is-being-recognized-by-the-industry-fbc24df54cf4) Standardized WebRTC based broadcast streaming with support for WHIP and WHEP
 
 ## Ad-insertion
 
