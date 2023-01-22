@@ -85,6 +85,10 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Standardized WebRTC based broadcast streaming](https://medium.com/@eyevinntechnology/standardized-webrtc-based-broadcast-streaming-is-being-recognized-by-the-industry-fbc24df54cf4) Standardized WebRTC based broadcast streaming with support for WHIP and WHEP
 
+- [WHIP Endpoint Library now supporting an origin and edge SFU topology:](https://medium.com/@eyevinntechnology/whip-endpoint-library-now-supporting-an-origin-and-edge-sfu-topology-8640cef21ce4) In this blog post we will walk you through this SFU-topology setup based on new and existing standards to achieve a standardized WebRTC based one-to-many (broadcast) video distribution
+ 
+- [Cloudflare WebRTC/WHIP/WHEP:](https://blog.cloudflare.com/webrtc-whip-whep-cloudflare-stream/)WebRTC live streaming to unlimited viewers, with sub-second latency
+ 
 ## Ad-insertion
 
 - [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
@@ -166,15 +170,9 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Streaming Tech TV+:](https://plus.streamingtech.se/) Videos from Streaming Tech Sweden as well as other sources such as Northen Waves TV
 
-- [Videos from Streaming Tech Sweden 2017:](https://www.streamingtech.se/resources.html) Videos from Streaming Tech Sweden 2017 
-
 - [The Broadcast Knowledge](https://thebroadcastknowledge.com) The Broadcast Knowledge links to free educational events, meetings, lectures, webinars and other free resources focused on the Broadcast Industry
 
-- [AWS Elemental Foundations – Video Compression Basics](https://www.aws.training/learningobject/wbc?id=17775)
-
-- [AWS Elemental Foundations – Video Delivery Basics](https://www.aws.training/learningobject/wbc?id=17887)
-
-- [AWS Elemental Foundations – The Challenges of Streaming Live Video](https://www.aws.training/learningobject/video?id=24750)
+- [Demuxed videos:](https://www.youtube.com/c/demuxed/videos) Demuxed is annual convention of engineers talking about video technology
 
 ## Misc collection of streaming information
 
