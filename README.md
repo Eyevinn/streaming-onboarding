@@ -27,6 +27,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming
 
+- [Back to basics: HTTP video streaming:](https://aws.amazon.com/blogs/media/back-to-basics-http-video-streaming/) HTTP streaming. HTTP video streaming is an underlying technology used to bring content to internet-connected devices
+
 ## General streaming technology
 
 - [Example of Microservices for a Streaming Service:](https://medium.com/@eyevinntechnology/example-of-microservices-for-a-streaming-service-e2b2c556442e) This article go through some examples of performant and scalable microservices that you would find or need in a streaming service
