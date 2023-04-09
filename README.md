@@ -88,6 +88,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Standardized WebRTC based broadcast streaming](https://medium.com/@eyevinntechnology/standardized-webrtc-based-broadcast-streaming-is-being-recognized-by-the-industry-fbc24df54cf4) Standardized WebRTC based broadcast streaming with support for WHIP and WHEP
 
 - [WHIP Endpoint Library now supporting an origin and edge SFU topology:](https://medium.com/@eyevinntechnology/whip-endpoint-library-now-supporting-an-origin-and-edge-sfu-topology-8640cef21ce4) In this blog post we will walk you through this SFU-topology setup based on new and existing standards to achieve a standardized WebRTC based one-to-many (broadcast) video distribution
+
+- [Example setup of a combined MPEG-DASH and WebRTC distribution:](https://medium.com/@eyevinntechnology/example-setup-of-a-combined-mpeg-dash-and-webrtc-distribution-77a7eaad7b2e) Available in a feature branch of DASH-IF’s Reference Player there is now experimental support for switching between an HTTP-based stream and a real-time WebRTC based stream. Follow this guide if you want to try it out. All based on open source components.
  
 - [Cloudflare WebRTC/WHIP/WHEP:](https://blog.cloudflare.com/webrtc-whip-whep-cloudflare-stream/)WebRTC live streaming to unlimited viewers, with sub-second latency
  
@@ -104,6 +106,14 @@ We have collected links to good articles to read if you would like to know more 
 - [Understanding Real-time Bidding for AVOD Services](https://medium.com/@eyevinntechnology/understanding-real-time-bidding-for-avod-services-861ebfa8bd13) The technology that makes real-time bidding marketplaces (or programmatic buying) possible
 
 - [The State of Server-Side Ad Insertion 2018:](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-Server-Side-Ad-Insertion-2018-127971.aspx) For years, SSAI has promised targeted advertising in a seamless stream that defeats the ad blockers. Has the promise finally been realized?
+
+## Virtual Channels / FAST
+
+- [Create your own FAST Channels based on VOD2Live Technology and Open Source Components:](https://medium.com/@eyevinntechnology/create-your-own-fast-channels-based-on-vod2live-technology-and-open-source-components-893197fdea0a) VOD2Live is a technology to produce FAST channels of higher video and audio quality to a considerable lower cost than traditional methods. Instead of encoding and transcoding a live channel 24/7 it utilizes already transcoded and available VODs. 
+
+- [FAST Channels with Dolby Atmos enabled by VOD2Live Technology:](https://medium.com/@eyevinntechnology/fast-channels-with-dolby-atmos-enabled-by-vod2live-technology-f11847960b14) The VOD2Live technology removes the need for redundant transcoding and packaging by reusing already transcoded and available VODs. Not only reduces this the cost to power 24/7 channels, it allows you to offer 24/7 channels of higher video- and audio-quality.
+
+- [AI Generated Anchors with FAST Channels based on VOD2Live:](https://medium.com/@eyevinntechnology/ai-generated-anchors-with-fast-channels-based-on-vod2live-12e810de3575) With this blog post we want to demonstrate the idea of using the latest advancements in open AI technology to add AI generated anchors in automatically generated FAST channels.
 
 ## Codecs and containers
  
@@ -181,6 +191,7 @@ We have collected links to good articles to read if you would like to know more 
 - [The Netflix Tech Blog:](https://medium.com/netflix-techblog) Collection of Netflix Tech Blogs
 - [Disney Streaming Services Tech Blog:](https://medium.com/disney-streaming) Collection of Disney Tech Blogs
 - [Eyevinn Video Dev-Team Blog:](https://dev.to/video) Video Developer Blog by Eyevinn Video-Dev Team
+- [Dolby Tech Blog:](https://dolby.io/blog/category/streaming/) Tech Blog by Dolby.io
 - [MUX Tech Blog:](https://mux.com/blog/) Mux Blog - Video technology and more
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
 - [Fox Tech Blog:](https://medium.com/fox-tech)Fox Tech Blog - from the engineers at Fox
