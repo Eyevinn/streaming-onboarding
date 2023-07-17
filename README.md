@@ -105,6 +105,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Understanding Real-time Bidding for AVOD Services](https://medium.com/@eyevinntechnology/understanding-real-time-bidding-for-avod-services-861ebfa8bd13) The technology that makes real-time bidding marketplaces (or programmatic buying) possible
 
+- [Using SGAI to deliver and play ads with flexibility and scale:](https://medium.com/disney-streaming/using-sgai-to-deliver-and-play-ads-with-flexibility-and-scale-b5c18aeb7bca) This article aims to provide a high-level overview of the serving mechanism of video ads to clients for playback using Server Guided Ad Insertion (SGAI).
+
 - [The State of Server-Side Ad Insertion 2018:](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-Server-Side-Ad-Insertion-2018-127971.aspx) For years, SSAI has promised targeted advertising in a seamless stream that defeats the ad blockers. Has the promise finally been realized?
 
 ## Virtual Channels / FAST
@@ -150,6 +152,8 @@ We have collected links to good articles to read if you would like to know more 
 - [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
 
 - [SRT to RTMP container to re-stream to Facebook, Twitch, Youtube and more:](https://medium.com/@eyevinntechnology/srt-to-rtmp-container-to-re-stream-to-facebook-twitch-youtube-and-more-625c823151eb) In this blog post we will show how you can use OBS to stream to multiple platforms
+
+- [Preview an SRT stream in a standard browser with WHEP and WebRTC:](https://medium.com/@eyevinntechnology/preview-an-srt-stream-in-a-standard-browser-with-whep-and-webrtc-e46b189d1f74) How to preview an SRT stream in a standard browser with WHEP and WebRTC, using open-source
 
 - [Loop file and generate multiple video bitrates muxed in MPEG-TS with ffmpeg](https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb) How to generate an MPEG-TS containing multiple video streams each of different resolutions and bitrates
 
