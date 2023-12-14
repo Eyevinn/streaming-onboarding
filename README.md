@@ -186,6 +186,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Streaming Tech TV+:](https://plus.streamingtech.se/) Videos from Streaming Tech Sweden as well as other sources such as Northen Waves TV
 
+- [Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102) Videos from Netflix first-ever Data Engineering Forum
+
 - [The Broadcast Knowledge](https://thebroadcastknowledge.com) The Broadcast Knowledge links to free educational events, meetings, lectures, webinars and other free resources focused on the Broadcast Industry
 
 - [Demuxed videos:](https://www.youtube.com/c/demuxed/videos) Demuxed is annual convention of engineers talking about video technology
