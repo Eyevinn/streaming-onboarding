@@ -117,6 +117,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [AI Generated Anchors with FAST Channels based on VOD2Live:](https://medium.com/@eyevinntechnology/ai-generated-anchors-with-fast-channels-based-on-vod2live-12e810de3575) With this blog post we want to demonstrate the idea of using the latest advancements in open AI technology to add AI generated anchors in automatically generated FAST channels.
 
+- [How to Create a FAST Channel in Minutes:](https://bitmovin.com/eyevinn-fast-channels) This article guides you through the process of setting up a FAST channel using the FAST Channel Engine within the Open Source Cloud with content preparation using Bitmovin Streams.
+
 ## Codecs and containers
  
 - [Making Video Intuitive:](https://blog.cloudflare.com/making-video-intuitive-an-explainer/) Making Video Intuitive: An Explainer
