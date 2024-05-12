@@ -53,6 +53,44 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Cloud Gaming:](https://medium.com/@eyevinntechnology/cloud-gaming-1e6de02f478a) Explaining what Cloud Gaming is, what advantages and disadvantages it has compared to normal gaming
 
+## Virtual Channels / FAST
+
+- [Launch a FAST channel in minutes with open source:](https://youtu.be/HptKU7xwnEY?feature=shared) In this tutorial Jonas Birmé VP R&D Eyevinn Technology describes how to launch a FAST channel based on open source software.
+
+- [FAST Channel Engine:](https://app.osaas.io/browse/channel-engine) Based on VOD2Live Technology you can generate a numerous amounts of FAST channels with a fraction of energy consumption compared to live transcoded FAST channels
+
+- [Enable server-side ad-insertion in a FAST channel:](https://youtu.be/PFXUYD7bi84?feature=shared) In this tutorial Jonas Birmé VP R&D Eyevinn Technology describes how to connect a FAST channel launched in last episode with a server-side ad-inserter and an ad-server.
+
+- [FAST channel creation as code:](https://medium.com/@eyevinntechnology/fast-channel-creation-as-code-88bf6854a054) In this blog post we will go through how you in minutes can launch a FAST channel based on open source and with the help of Open Source Cloud.
+
+- [How to Create a FAST Channel in Minutes:](https://bitmovin.com/eyevinn-fast-channels) This article guides you through the process of setting up a FAST channel using the FAST Channel Engine within the Open Source Cloud with content preparation using Bitmovin Streams.
+
+- [Create your own FAST Channels based on VOD2Live Technology and Open Source Components:](https://medium.com/@eyevinntechnology/create-your-own-fast-channels-based-on-vod2live-technology-and-open-source-components-893197fdea0a) VOD2Live is a technology to produce FAST channels of higher video and audio quality to a considerable lower cost than traditional methods. Instead of encoding and transcoding a live channel 24/7 it utilizes already transcoded and available VODs. 
+
+- [FAST Channels with Dolby Atmos enabled by VOD2Live Technology:](https://medium.com/@eyevinntechnology/fast-channels-with-dolby-atmos-enabled-by-vod2live-technology-f11847960b14) The VOD2Live technology removes the need for redundant transcoding and packaging by reusing already transcoded and available VODs. Not only reduces this the cost to power 24/7 channels, it allows you to offer 24/7 channels of higher video- and audio-quality.
+
+- [AI Generated Anchors with FAST Channels based on VOD2Live:](https://medium.com/@eyevinntechnology/ai-generated-anchors-with-fast-channels-based-on-vod2live-12e810de3575) With this blog post we want to demonstrate the idea of using the latest advancements in open AI technology to add AI generated anchors in automatically generated FAST channels.
+
+## Ad-insertion
+
+- [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
+
+- [Server-side ad insertion with DRM:](https://medium.com/@eyevinntechnology/server-side-ad-insertion-with-drm-8b41d5f3fc95) Server-side ad insertion (SSAI) in comparison with client-side ad insertion 
+
+- [Understanding Server-Side Dynamic Ad Insertion:](https://medium.com/@eyevinntechnology/understanding-server-side-dynamic-ad-insertion-d7ed90e34aa2) In this post we’re explaining the principles behind Server-Side Dynamic Ad Insertion technology.
+
+- [Challenges with Server-Side Ad Insertion:](https://medium.com/@eyevinntechnology/challenges-with-server-side-ad-insertion-85571f24aafb) In this post we’re explaining the challenges that comes with Server-Side Dynamic Ad Insertion.
+
+- [Understanding Real-time Bidding for AVOD Services](https://medium.com/@eyevinntechnology/understanding-real-time-bidding-for-avod-services-861ebfa8bd13) The technology that makes real-time bidding marketplaces (or programmatic buying) possible
+
+- [Using SGAI to deliver and play ads with flexibility and scale:](https://medium.com/disney-streaming/using-sgai-to-deliver-and-play-ads-with-flexibility-and-scale-b5c18aeb7bca) This article aims to provide a high-level overview of the serving mechanism of video ads to clients for playback using Server Guided Ad Insertion (SGAI).
+
+- [The State of Server-Side Ad Insertion 2018:](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-Server-Side-Ad-Insertion-2018-127971.aspx) For years, SSAI has promised targeted advertising in a seamless stream that defeats the ad blockers. Has the promise finally been realized?
+
+- [Swedes going insane over SSAI testing, and how to overcome the trouble:](https://medium.com/@eyevinntechnology/swedes-going-insane-over-ssai-testing-and-how-to-overcome-the-trouble-7728e7767188) How to verify your SSAI setup with simple tools
+
+- [Providing an SSAI live test stream with Open Source Cloud:](Providing an SSAI live test stream with Open Source Cloud) In this blog post we will walk you through how you can create a live stream with in-stream ads for testing using Open Source Cloud and an SSAI-provider. 
+
 ## Video Quality
 
 - [Quality of Experience in Streaming:](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111) Quality of Experience (QoE); its definitions and influence factors.
@@ -68,6 +106,8 @@ We have collected links to good articles to read if you would like to know more 
 - [AutoVMAF docs](https://autovmaf.docs.eyevinn.technology)Eyevinn AutoVMAF is a toolkit to automatically encode a video file in multiple bitrates and resolutions, and then perform automated VMAF measurements on all of them
 
 - [Testing your Video Player with Bad Streams](https://medium.com/@eyevinntechnology/testing-your-video-player-with-bad-streams-c70cac51deab) The stream corruptor service can be used to apply corruptions and faults to MPEG-DASH manifests and segment requests in a controlled manner and on the fly
+
+- [Delivering flawless streams, regardless of the challenges in network conditions:](https://medium.com/@eyevinntechnology/delivering-flawless-streams-regardless-of-the-challenges-in-network-conditions-e466bad5b83f) This article will guide you through using the Eyevinn Chaos Stream Proxy (https://eyevinn.osaas.io/dashboard/service/eyevinn-chaos-stream-proxy) within the Open Source Cloud.
 
 ## Low-latency streaming
  
@@ -92,32 +132,6 @@ We have collected links to good articles to read if you would like to know more 
 - [Example setup of a combined MPEG-DASH and WebRTC distribution:](https://medium.com/@eyevinntechnology/example-setup-of-a-combined-mpeg-dash-and-webrtc-distribution-77a7eaad7b2e) Available in a feature branch of DASH-IF’s Reference Player there is now experimental support for switching between an HTTP-based stream and a real-time WebRTC based stream. Follow this guide if you want to try it out. All based on open source components.
  
 - [Cloudflare WebRTC/WHIP/WHEP:](https://blog.cloudflare.com/webrtc-whip-whep-cloudflare-stream/)WebRTC live streaming to unlimited viewers, with sub-second latency
- 
-## Ad-insertion
-
-- [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
-
-- [Server-side ad insertion with DRM:](https://medium.com/@eyevinntechnology/server-side-ad-insertion-with-drm-8b41d5f3fc95) Server-side ad insertion (SSAI) in comparison with client-side ad insertion 
-
-- [Understanding Server-Side Dynamic Ad Insertion:](https://medium.com/@eyevinntechnology/understanding-server-side-dynamic-ad-insertion-d7ed90e34aa2) In this post we’re explaining the principles behind Server-Side Dynamic Ad Insertion technology.
-
-- [Challenges with Server-Side Ad Insertion:](https://medium.com/@eyevinntechnology/challenges-with-server-side-ad-insertion-85571f24aafb) In this post we’re explaining the challenges that comes with Server-Side Dynamic Ad Insertion.
-
-- [Understanding Real-time Bidding for AVOD Services](https://medium.com/@eyevinntechnology/understanding-real-time-bidding-for-avod-services-861ebfa8bd13) The technology that makes real-time bidding marketplaces (or programmatic buying) possible
-
-- [Using SGAI to deliver and play ads with flexibility and scale:](https://medium.com/disney-streaming/using-sgai-to-deliver-and-play-ads-with-flexibility-and-scale-b5c18aeb7bca) This article aims to provide a high-level overview of the serving mechanism of video ads to clients for playback using Server Guided Ad Insertion (SGAI).
-
-- [The State of Server-Side Ad Insertion 2018:](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-Server-Side-Ad-Insertion-2018-127971.aspx) For years, SSAI has promised targeted advertising in a seamless stream that defeats the ad blockers. Has the promise finally been realized?
-
-## Virtual Channels / FAST
-
-- [Create your own FAST Channels based on VOD2Live Technology and Open Source Components:](https://medium.com/@eyevinntechnology/create-your-own-fast-channels-based-on-vod2live-technology-and-open-source-components-893197fdea0a) VOD2Live is a technology to produce FAST channels of higher video and audio quality to a considerable lower cost than traditional methods. Instead of encoding and transcoding a live channel 24/7 it utilizes already transcoded and available VODs. 
-
-- [FAST Channels with Dolby Atmos enabled by VOD2Live Technology:](https://medium.com/@eyevinntechnology/fast-channels-with-dolby-atmos-enabled-by-vod2live-technology-f11847960b14) The VOD2Live technology removes the need for redundant transcoding and packaging by reusing already transcoded and available VODs. Not only reduces this the cost to power 24/7 channels, it allows you to offer 24/7 channels of higher video- and audio-quality.
-
-- [AI Generated Anchors with FAST Channels based on VOD2Live:](https://medium.com/@eyevinntechnology/ai-generated-anchors-with-fast-channels-based-on-vod2live-12e810de3575) With this blog post we want to demonstrate the idea of using the latest advancements in open AI technology to add AI generated anchors in automatically generated FAST channels.
-
-- [How to Create a FAST Channel in Minutes:](https://bitmovin.com/eyevinn-fast-channels) This article guides you through the process of setting up a FAST channel using the FAST Channel Engine within the Open Source Cloud with content preparation using Bitmovin Streams.
 
 ## Codecs and containers
  
@@ -149,7 +163,11 @@ We have collected links to good articles to read if you would like to know more 
 
 - [How to build your own streaming video HTML player:](https://medium.com/@eyevinntechnology/how-to-build-your-own-streaming-video-html-player-6ee85d4d078a) Under the hood of a HTML video player
 
+- [Kickstarting your custom chromecast journey:](https://medium.com/@eyevinntechnology/kickstarting-your-custom-chromecast-journey-9afd7ececf0b) This blog post show how easy you can leverage a custom cast-reciever through the Open Source Cloud
+
 - [Generate MPEG-TS from file with ffmpeg](https://medium.com/@eyevinntechnology/generate-mpeg-ts-from-file-with-ffmpeg-7561181e6369) How an MPEG-TS multicast stream can be generated with ffmpeg by looping an MP4 file
+
+- [Broadcast Grade Transcoding in Minutes Simplified:](https://medium.com/@eyevinntechnology/broadcast-grade-transcoding-in-minutes-simplified-503dd108f3da) This blog post go through each step for how to set up your first Encore transcoding job through Open Source Cloud.
 
 - [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
 
@@ -176,13 +194,6 @@ We have collected links to good articles to read if you would like to know more 
 - [How to Choose a Video AI Platform and Evaluate its Results:](http://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=128155) Meet the big four players in the video artificial intelligence space, then learn how they can speed up time-consuming tasks like generating metadata or creating transcriptions.
 
 - [Personalize the Experience:](https://medium.com/@eyevinntechnology/personalize-the-experience-37f991db2745) How to build a simple recommendation service.
-
-## Hulu Live OTT Service
-
-- [The Anatomy of a Live OTT Service](https://medium.com/hulu-tech-blog/the-anatomy-of-a-live-ott-service-c8f6078b24d3) The “Anatomy Of” series is a collection of visuals that give a behind the scenes look at the systems that power over-the-top television.
-- [The Challenges of Live Linear Video Ingest - Part One](https://medium.com/hulu-tech-blog/the-challenges-of-live-linear-video-ingest-part-one-live-versus-on-demand-system-requirements-89238f3af4f6) Live Versus On-Demand System Requirements
-- [The Challenges of Live Linear Video Ingest — Part Two](https://medium.com/hulu-tech-blog/the-challenges-of-live-linear-video-ingest-part-two-system-design-and-implementation-ca0e387a3cbe) System Design and Implementation
-- [The Challenges of Live Linear Video Ingest — Part Three](https://medium.com/hulu-tech-blog/the-challenges-of-live-linear-video-ingest-part-three-key-learnings-ac673e1d39c6) Key Learnings
 
 ## Videos 
 
