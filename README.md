@@ -89,7 +89,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Swedes going insane over SSAI testing, and how to overcome the trouble:](https://medium.com/@eyevinntechnology/swedes-going-insane-over-ssai-testing-and-how-to-overcome-the-trouble-7728e7767188) How to verify your SSAI setup with simple tools
 
-- [Providing an SSAI live test stream with Open Source Cloud:](Providing an SSAI live test stream with Open Source Cloud) In this blog post we will walk you through how you can create a live stream with in-stream ads for testing using Open Source Cloud and an SSAI-provider. 
+- [Providing an SSAI live test stream with Open Source Cloud:]([Providing an SSAI live test stream with Open Source Cloud](https://eyevinntechnology.medium.com/providing-an-ssai-live-test-stream-with-open-source-cloud-48ef24e6cfef) In this blog post we will walk you through how you can create a live stream with in-stream ads for testing using Open Source Cloud and an SSAI-provider. 
 
 ## Video Quality
 
