@@ -71,6 +71,8 @@ We have collected links to good articles to read if you would like to know more 
 
 - [AI Generated Anchors with FAST Channels based on VOD2Live:](https://medium.com/@eyevinntechnology/ai-generated-anchors-with-fast-channels-based-on-vod2live-12e810de3575) With this blog post we want to demonstrate the idea of using the latest advancements in open AI technology to add AI generated anchors in automatically generated FAST channels.
 
+- [Unlocking high quality linear channels at a fraction of the cost:](https://medium.com/@eyevinntechnology/unlocking-high-quality-linear-channels-at-a-fraction-of-the-cost-f9805dbe892c) From the days of traditional broadcast television technology powering video channel playout has also undergone significant changes. Despite this, there is still a lot to be done.
+
 ## Ad-insertion
 
 - [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
@@ -197,7 +199,15 @@ We have collected links to good articles to read if you would like to know more 
 
 ## Videos 
 
-- [Streaming Tech TV+:](https://plus.streamingtech.se/) Videos from Streaming Tech Sweden as well as other sources such as Northen Waves TV
+- [Streaming Tech Sweden 2018:](https://youtube.com/playlist?list=PLpv8XV4Px3qKgKlqK-7dlGW4tIRCywSDY&si=ULBbwWe5EOXGRbuX) Videos from Streaming Tech Sweden 2018
+
+- [Streaming Tech Sweden 2019:](https://youtube.com/playlist?list=PLpv8XV4Px3qIZhMbPC5gRyhUQOniiU-sh&si=G1kZ7Ogfr2Mq5D9a) Videos from Streaming Tech Sweden 2019
+
+- [Streaming Tech Sweden 2022:](https://youtube.com/playlist?list=PLpv8XV4Px3qKUj4CxhML6xgmhqYt08pb4&si=0kDu70okEyySNTcg) Videos from Streaming Tech Sweden 2022
+
+- [Streaming Tech Sweden 2023:](https://youtube.com/playlist?list=PLpv8XV4Px3qI3tjKxDQYDlBTFQtpvpFld&si=QiIVlAZWoSHp6R6w) Videos from Streaming Tech Sweden 2023
+
+- [Streaming Tech Sweden 2024:](https://youtube.com/playlist?list=PLpv8XV4Px3qKCaRfdGwEVj62E1QnqU6zk&si=KGUzjWF6buMV-bLe) Videos from Streaming Tech Sweden 2024
 
 - [Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102) Videos from Netflix first-ever Data Engineering Forum
 
