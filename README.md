@@ -75,9 +75,7 @@ We have collected links to good articles to read if you would like to know more 
 
 ## Ad-insertion
 
-- [SCTE-104/35 and Beyond: A Look at Ad Insertion in an OTT World:](http://www.tvtechnology.com/expertise/0003/scte10435-and-beyond-a-look-at-ad-insertion-in-an-ott-world/280536) Overview of how a traditional ad-insertion workflow can be used as a basis for an OTT system
-
-- [Server-side ad insertion with DRM:](https://medium.com/@eyevinntechnology/server-side-ad-insertion-with-drm-8b41d5f3fc95) Server-side ad insertion (SSAI) in comparison with client-side ad insertion 
+- [Server-side ad insertion with DRM:](https://medium.com/@eyevinntechnology/server-side-ad-insertion-with-drm-8b41d5f3fc95) Server-side ad insertion (SSAI) in comparison with client-side ad insertion
 
 - [Understanding Server-Side Dynamic Ad Insertion:](https://medium.com/@eyevinntechnology/understanding-server-side-dynamic-ad-insertion-d7ed90e34aa2) In this post we’re explaining the principles behind Server-Side Dynamic Ad Insertion technology.
 
@@ -109,7 +107,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Testing your Video Player with Bad Streams](https://medium.com/@eyevinntechnology/testing-your-video-player-with-bad-streams-c70cac51deab) The stream corruptor service can be used to apply corruptions and faults to MPEG-DASH manifests and segment requests in a controlled manner and on the fly
 
-- [Delivering flawless streams, regardless of the challenges in network conditions:](https://medium.com/@eyevinntechnology/delivering-flawless-streams-regardless-of-the-challenges-in-network-conditions-e466bad5b83f) This article will guide you through using the Eyevinn Chaos Stream Proxy (https://eyevinn.osaas.io/dashboard/service/eyevinn-chaos-stream-proxy) within the Open Source Cloud.
+- [Delivering flawless streams, regardless of the challenges in network conditions:](https://medium.com/@eyevinntechnology/delivering-flawless-streams-regardless-of-the-challenges-in-network-conditions-e466bad5b83f) This article will guide you through using the [Eyevinn Chaos Stream Proxy](https://github.com/Eyevinn/chaos-stream-proxy) within the Open Source Cloud.
 
 ## Low-latency streaming
  
@@ -117,8 +115,6 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Using LL-HLS with byte-range addressing to achieve interoperability in low latency streaming:](https://web.archive.org/web/20210202232150/https://blogs.akamai.com/2020/11/using-ll-hls-with-byte-range-addressing-to-achieve-interoperability-in-low-latency-streaming.html) This article investigate the problems solved with range-based addressing, the requirements it brings to operate effectively, and the benefits we can gain by deploying it at scale
  
-- [Low latency HLS:](https://medium.com/@periscopecode/introducing-lhls-media-streaming-eb6212948bef) How to achieve low-latency HLS streaming
-
 - [Ultra Low latency CMAF:](https://web.archive.org/web/20210124092321/https://blogs.akamai.com/2018/10/best-practices-for-ultra-low-latency-streaming-using-chunked-encoded-and-chunk-transferred-cmaf.html) Best Practices for Ultra-Low Latency Streaming Using Chunked-Encoded and Chunk-Transferred CMAF
 
 - [Ultra Low Latency Video Streaming: The Current State:](https://www.linkedin.com/pulse/ultra-low-latency-video-streaming-current-state-patrick-debois/) A good summary of the technology around low-latency streaming
@@ -193,8 +189,6 @@ We have collected links to good articles to read if you would like to know more 
 
 ## AI and Machine Learning
 
-- [How to Choose a Video AI Platform and Evaluate its Results:](http://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=128155) Meet the big four players in the video artificial intelligence space, then learn how they can speed up time-consuming tasks like generating metadata or creating transcriptions.
-
 - [Personalize the Experience:](https://medium.com/@eyevinntechnology/personalize-the-experience-37f991db2745) How to build a simple recommendation service.
 
 ## Videos 
@@ -225,21 +219,17 @@ We have collected links to good articles to read if you would like to know more 
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
 - [Fox Tech Blog:](https://medium.com/fox-tech)Fox Tech Blog - from the engineers at Fox
 - [Tubi engineering:](https://code.tubitv.com) Engineering blog for Tubi TV
-- [Twitter engineering:](https://blog.twitter.com/engineering/en_us.html) Buildning the new twitter.com
-- [Facebook Video engineering:](https://engineering.fb.com/category/video-engineering/) The Video Engineering team at Facebook is responsible for the end-to-end video experience, including upload, encoding, playback, and distribution across mobile and web
-- [Edgeware Tech Blog:](https://www.edgeware.tv/news-events/category/tech-blog/) Edgeware Tech Blog - from the Edgeware engineering team
+- [X (formerly Twitter) Engineering:](https://blog.x.com/engineering/en_us) Engineering blog from X
+- [Meta Video Engineering:](https://engineering.fb.com/category/video-engineering/) The Video Engineering team at Meta is responsible for the end-to-end video experience, including upload, encoding, playback, and distribution across mobile and web
 - [Fraunhofer FOKUS Video Development Blog:](https://websites.fraunhofer.de/video-dev/) Technical Articles from the Fraunhofer FOKUS Business Unit Future Applications and Media (FAME)
 - [SVT Tech Blog:](https://medium.com/the-svt-tech-blog) Tech Blog from SVT, Swedens public service broadcaster
 - [Zattoo Tech Blog:](https://medium.com/zattoo_tech) Developing, engineering and designing the future of television.
 - [Joyn Tech Blog:](https://medium.com/joyn-tech-blog) Engineering blog for Joyn
 - [Crunchyroll Blog:](https://medium.com/crunchyroll) Chrunchyroll blog
-- [Caffeine Dev Blog:](https://www.caffeine.tv/blog/engineering) Caffeine Tech Blog
 - [The streaming Learning Center:](https://streaminglearningcenter.com) By Jan Ozer
 - [Leonardo Chiariglione Blog:](http://blog.chiariglione.org/compression-the-technology-for-the-digital-age/) Leonardo Chiariglione Blog Feed
 - [Awesome Video](https://github.com/krzemienski/awesome-video) An awesome list of learning video streaming resources
 - [List of streams:](https://github.com/bengarney/list-of-streams/blob/master/README.md) Community list of public test streams for HLS and DASH
-- [HLS.video](https://hls.video/) Home for all video streaming related resources
-- [OTTBall](https://ottball.com) A platform where content and code related to the OTT industry is created and shared
 - [Video Streaming Cheatsheet](https://video-streaming-cheatsheet.s3.eu-west-2.amazonaws.com/artifacts/video-streaming-cheatsheet.pdf) A Cheatsheet of Terms used within the Video Streaming Industry, taking contributions on [Github](https://github.com/robert-will-brown/video-streaming-cheatsheet).
  
  
