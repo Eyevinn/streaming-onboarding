@@ -169,8 +169,7 @@ We have collected links to good articles to read if you would like to know more 
 
 - [Using ffmpeg and SRT to Transport Video Signal to the Cloud:](https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a) Using SRT (Secure Reliable Transport) and ffmpeg to transport the video signal to the cloud
 
-- [SRT to RTMP container to re-stream to Facebook, Twitch, Youtube and more:](https://medium.com/@eyevinntechnology/srt-to-rtmp-container-to-re-stream-to-facebook-twitch-youtube-and-more-625c823151eb) In this blog post we will show how you can use OBS to stream to multiple platforms
-
+[The Video Engineering team at Meta](https://engineering.fb.com/category/video-engineering/) — Engineering blog from Meta
 - [Preview an SRT stream in a standard browser with WHEP and WebRTC:](https://medium.com/@eyevinntechnology/preview-an-srt-stream-in-a-standard-browser-with-whep-and-webrtc-e46b189d1f74) How to preview an SRT stream in a standard browser with WHEP and WebRTC, using open-source
 
 - [Loop file and generate multiple video bitrates muxed in MPEG-TS with ffmpeg](https://medium.com/@eyevinntechnology/loop-file-and-generate-multiple-video-bitrates-muxed-in-mpeg-ts-with-ffmpeg-85658d0b74bb) How to generate an MPEG-TS containing multiple video streams each of different resolutions and bitrates
@@ -219,8 +218,7 @@ We have collected links to good articles to read if you would like to know more 
 - [Vimeo Engineering Blog:](https://medium.com/vimeo-engineering-blog) How Vimeo Engineering tinker, build, and dream up all-new things for Vimeo.
 - [Fox Tech Blog:](https://medium.com/fox-tech)Fox Tech Blog - from the engineers at Fox
 - [Tubi engineering:](https://code.tubitv.com) Engineering blog for Tubi TV
-- [X (formerly Twitter) Engineering:](https://blog.x.com/engineering/en_us) Engineering blog from X
-- [Meta Video Engineering:](https://engineering.fb.com/category/video-engineering/) The Video Engineering team at Meta is responsible for the end-to-end video experience, including upload, encoding, playback, and distribution across mobile and web
+[Building the new X (formerly Twitter)](https://blog.x.com/engineering/en_us) — Engineering blog from X- [Meta Video Engineering:](https://engineering.fb.com/category/video-engineering/) The Video Engineering team at Meta is responsible for the end-to-end video experience, including upload, encoding, playback, and distribution across mobile and web
 - [Fraunhofer FOKUS Video Development Blog:](https://websites.fraunhofer.de/video-dev/) Technical Articles from the Fraunhofer FOKUS Business Unit Future Applications and Media (FAME)
 - [SVT Tech Blog:](https://medium.com/the-svt-tech-blog) Tech Blog from SVT, Swedens public service broadcaster
 - [Zattoo Tech Blog:](https://medium.com/zattoo_tech) Developing, engineering and designing the future of television.
