@@ -36,3 +36,52 @@ Follow the same steps as adding a resource, but replace or remove the broken lin
 ## Questions
 
 Open an issue or contact [Eyevinn Technology](https://www.eyevinn.se) directly.
+
+# Contributing Guide
+
+Thank you for your interest in contributing to this repository! 🎉
+
+This project is a curated list of streaming-related resources. We welcome contributions that improve the quality, clarity, and usefulness of this collection.
+
+---
+
+##  Reporting Broken Links
+
+If you find a broken or outdated link:
+
+1. Open a new issue
+2. Use the `bug` label
+3. Include:
+   - The broken link
+   - Suggested replacement (if available)
+
+---
+
+##  Suggesting New Resources
+
+To suggest a new article, tutorial, or resource:
+
+1. Open a new issue
+2. Describe:
+   - The resource
+   - Why it is useful
+   - Target skill level (beginner / intermediate / advanced)
+
+We prefer high-quality, educational content.
+
+---
+
+##  Adding a New Section
+
+If you want to add a new section:
+
+1. Open an issue first to discuss the idea
+2. Once approved, submit a pull request
+
+This helps keep the structure consistent.
+
+---
+
+##  Style Guide
+
+Please follow this format for links:
