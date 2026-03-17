@@ -5,53 +5,53 @@ We have collected links to good articles to read if you would like to know more 
 
 ## Starting point
 
-- [Internet Video Streaming — ABR part 1:](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about ABR streaming
+- [Internet Video Streaming — ABR part 1:](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19) Part 1 of a series of educational posts about ABR streaming (2020)
 
-- [Internet Video Streaming — ABR part 2:](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c) Part 2 of a series of educational posts about ABR streaming
+- [Internet Video Streaming — ABR part 2:](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c) Part 2 of a series of educational posts about ABR streaming  (2020)
 
-- [Internet Video Streaming — ABR part 3:](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-3-45ff4bb3d436) Part 3 of a series of educational posts about ABR streaming
+- [Internet Video Streaming — ABR part 3:](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-3-45ff4bb3d436) Part 3 of a series of educational posts about ABR streaming  (2020)
 
-- [Video Encoding — Compression and Resolutions:](https://medium.com/@eyevinntechnology/chessboard-for-beginners-video-encoding-compression-and-resolutions-bcefe04fa639) This tutorial describes the concepts of encoding techniques used in today’s video streaming
+- [Video Encoding — Compression and Resolutions:](https://medium.com/@eyevinntechnology/chessboard-for-beginners-video-encoding-compression-and-resolutions-bcefe04fa639) This tutorial describes the concepts of encoding techniques used in today’s video streaming  (2020)
 
-- [Securing OTT Content:](https://medium.com/@eyevinntechnology/securing-ott-content-a941d998ca9a) The technology behind securing OTT content
+- [Securing OTT Content:](https://medium.com/@eyevinntechnology/securing-ott-content-a941d998ca9a) The technology behind securing OTT content  (2020)
 
-- [Securing OTT Content - Watermarking:](https://medium.com/@eyevinntechnology/securing-ott-content-watermarking-7d2b494f725f) The technology behind watermarking
+- [Securing OTT Content - Watermarking:](https://medium.com/@eyevinntechnology/securing-ott-content-watermarking-7d2b494f725f) The technology behind watermarking  (2020)
 
-- [Securing OTT Content - DRM:](https://medium.com/@eyevinntechnology/securing-ott-content-drm-1af2c08fdd31) The technology behind DRM
+- [Securing OTT Content - DRM:](https://medium.com/@eyevinntechnology/securing-ott-content-drm-1af2c08fdd31) The technology behind DRM  (2020)
 
-- [OTT Content Delivery:](https://medium.com/@eyevinntechnology/ott-content-delivery-b43a35ef24f6) OTT content delivery networks and distribution methods
+- [OTT Content Delivery:](https://medium.com/@eyevinntechnology/ott-content-delivery-b43a35ef24f6) OTT content delivery networks and distribution methods  (2020)
 
-- [OTT Content Delivery– Multi CDN:](https://medium.com/@eyevinntechnology/ott-content-delivery-multi-cdn-8cd90ad2628a) This is the second CDN article focusing on Multi CDN technologies
+- [OTT Content Delivery– Multi CDN:](https://medium.com/@eyevinntechnology/ott-content-delivery-multi-cdn-8cd90ad2628a) This is the second CDN article focusing on Multi CDN technologies  (2020)
 
-- [OTT Content Delivery– CDN Alternatives:](https://medium.com/@eyevinntechnology/ott-content-delivery-cdn-alternatives-cafe75dab71d) In this third and concluding article about OTT content delivery, we explore various types of CDNs, alternatives to CDNs, and aspects when building or buying CDNs
+- [OTT Content Delivery– CDN Alternatives:](https://medium.com/@eyevinntechnology/ott-content-delivery-cdn-alternatives-cafe75dab71d) In this third and concluding article about OTT content delivery, we explore various types of CDNs, alternatives to CDNs, and aspects when building or buying CDNs  (2020)
 
-- [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming. NB: Old article from 2011, but provides interesting and relevant historical perspective on the streaming formats.
+- [Adaptive Streaming, a brief tutorial:](https://tech.ebu.ch/docs/techreview/trev_2011-Q1_adaptive-streaming_laukens.pdf) A tutorial in Adaptive Streaming. NB: Old article from 2011, but provides interesting and relevant historical perspective on the streaming formats.  (2020)
 
-- [Back to basics: HTTP video streaming:](https://aws.amazon.com/blogs/media/back-to-basics-http-video-streaming/) HTTP streaming. HTTP video streaming is an underlying technology used to bring content to internet-connected devices
+- [Back to basics: HTTP video streaming:](https://aws.amazon.com/blogs/media/back-to-basics-http-video-streaming/) HTTP streaming. HTTP video streaming is an underlying technology used to bring content to internet-connected devices  (2020)
 
 ## General streaming technology
 
-- [Example of Microservices for a Streaming Service:](https://medium.com/@eyevinntechnology/example-of-microservices-for-a-streaming-service-e2b2c556442e) This article go through some examples of performant and scalable microservices that you would find or need in a streaming service
+- [Example of Microservices for a Streaming Service:](https://medium.com/@eyevinntechnology/example-of-microservices-for-a-streaming-service-e2b2c556442e) This article go through some examples of performant and scalable microservices that you would find or need in a streaming service  (2020)
 
-- [Server-less Video Backend:](https://medium.com/@eyevinntechnology/server-less-video-backend-1a142d1d2ba) How a completely server-less video backend on AWS would look like
+- [Server-less Video Backend:](https://medium.com/@eyevinntechnology/server-less-video-backend-1a142d1d2ba) How a completely server-less video backend on AWS would look like  (2020)
 
-- [Building Serverless Media Functions:](https://medium.com/@eyevinntechnology/building-serverless-media-functions-61bfc400af20) How a serverless infrastructure for media functions can be implemented (1/3)
+- [Building Serverless Media Functions:](https://medium.com/@eyevinntechnology/building-serverless-media-functions-61bfc400af20) How a serverless infrastructure for media functions can be implemented (1/3)  (2020)
 
-- [Deployment of a Serverless Media Function:](https://medium.com/@eyevinntechnology/deployment-of-a-serverless-media-function-32c3c313e72e) How to deploy serverless infrastructure for media functions with Kubernetes as container orchestrator (2/3)
+- [Deployment of a Serverless Media Function:](https://medium.com/@eyevinntechnology/deployment-of-a-serverless-media-function-32c3c313e72e) How to deploy serverless infrastructure for media functions with Kubernetes as container orchestrator (2/3)  (2020)
 
-- [Serverless Media Function on Amazon EKS:](https://medium.com/@eyevinntechnology/serverless-media-function-on-amazon-eks-84d4bfb16db0) How to deploy serverless infrastructure for media functions using Amazon Elastic Kubernetes Service (Amazon EKS) (3/3)
+- [Serverless Media Function on Amazon EKS:](https://medium.com/@eyevinntechnology/serverless-media-function-on-amazon-eks-84d4bfb16db0) How to deploy serverless infrastructure for media functions using Amazon Elastic Kubernetes Service (Amazon EKS) (3/3)  (2020)
 
-- [Cloud-based OTT Only Playout:](https://medium.com/@eyevinntechnology/cloud-based-ott-only-playout-54e19b542c43) How could a broadcast solution look like if you designed it for only OTT/Internet distribution?
+- [Cloud-based OTT Only Playout:](https://medium.com/@eyevinntechnology/cloud-based-ott-only-playout-54e19b542c43) How could a broadcast solution look like if you designed it for only OTT/Internet distribution?  (2020)
 
-- [Server-less OTT-Only Playout:](https://medium.com/@eyevinntechnology/server-less-ott-only-playout-bc5a7f2e6d04) A fully “server-less” OTT-only TV channel playout
+- [Server-less OTT-Only Playout:](https://medium.com/@eyevinntechnology/server-less-ott-only-playout-bc5a7f2e6d04) A fully “server-less” OTT-only TV channel playout  (2020)
 
-- [Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming:](https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca) A server-less just-in-time packaging origin, using AWS ECS Fargate tasks running Unified Origin as just-in-time packager and with content stored on an AWS S3 bucket
+- [Server-less Just-in-Time Packaging with AWS Fargate and Unified Origin by Unified Streaming:](https://medium.com/@eyevinntechnology/server-less-just-in-time-packaging-with-aws-fargate-and-unified-origin-by-unified-streaming-c1682dc051ca) A server-less just-in-time packaging origin, using AWS ECS Fargate tasks running Unified Origin as just-in-time packager and with content stored on an AWS S3 bucket  (2020)
 
-- [Demystifying HTML5 Video Player:](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0) Under the hood of a HTML video player for video streaming
+- [Demystifying HTML5 Video Player:](https://medium.com/@eyevinntechnology/demystifying-html5-video-player-e480846328f0) Under the hood of a HTML video player for video streaming  (2020)
 
-- [How video streaming works on the web: An introduction:](https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1) An introduction to video streaming in JavaScript
+- [How video streaming works on the web: An introduction:](https://medium.com/canal-tech/how-video-streaming-works-on-the-web-an-introduction-7919739f7e1) An introduction to video streaming in JavaScript  (2020)
 
-- [Cloud Gaming:](https://medium.com/@eyevinntechnology/cloud-gaming-1e6de02f478a) Explaining what Cloud Gaming is, what advantages and disadvantages it has compared to normal gaming
+- [Cloud Gaming:](https://medium.com/@eyevinntechnology/cloud-gaming-1e6de02f478a) Explaining what Cloud Gaming is, what advantages and disadvantages it has compared to normal gaming  (2020)
 
 ## Virtual Channels / FAST
 
